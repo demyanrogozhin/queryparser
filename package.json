@@ -1,0 +1,19 @@
+{
+  "name": "queryparser",
+  "version": "0.1.0",
+  "description": "Module for parsing http query string into parameters.",
+  "main": "queryparser.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "http",
+    "parsing"
+  ],
+  "author": "Dmitriy Rogozhin",
+  "license": "WTFPL",
+  "devDependencies": {
+    "mocha": "~1.12.1",
+    "benchmark": "1.0.0"
+  }
+}
